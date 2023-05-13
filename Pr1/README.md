@@ -20,4 +20,4 @@
 
 1. Получить данные о системе командой systeminfo
 
-![1](/Screenshot/1.png)
+![/Screenshot/1.png](https://github.com/N2OCaKeS/AuthSystem_5sem/blob/061b3521746b821bb2c4bbc5bdb2a312d892a2fa/Pr1/Screenshot/1.png)
