@@ -20,4 +20,4 @@
 
 1. Получить данные о системе командой systeminfo
 
-![1](C:\Users\n2o_c\OneDrive\Рабочий стол\ThreadHunting\Pr1\Screenshot\1.png)
+![1](Pr1/Screenshot/1.png)
