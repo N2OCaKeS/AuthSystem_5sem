@@ -11,6 +11,7 @@
 # Ход работы:
 
 1. С помощбю утилиты WireShark собрал сетевой трафик в объеме 272 мегабайта.
+
 ![Image alt](https://github.com/N2OCaKeS/AuthSystem_5sem/blob/main/Pr2/screenshots/1.png)
 
 2. Утилитой Zeek вывел метаданные из полученного трафика
