@@ -20,7 +20,7 @@
 
 4. Написан код для сравнения полученных мной данных и данных полученных с GitHub
 
-```py
+```{python}
 
 HostData = []
 with open("HOSTS.txt", "r") as reader:
